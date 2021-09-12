@@ -1,0 +1,44 @@
+.store{
+    font-family: roboto;
+}
+.coupons{
+    margin: 40px auto;
+}
+
+.coupons button strong{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.coupons button:hover strong{
+    color: black;
+}
+
+.cashback{
+    margin: 0 auto;
+}
+
+.cashback button strong {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.cashback button:hover strong {
+    color: black;
+}
+
+.email-form{
+    width: 100%;
+}
+.form{
+    margin: 0 auto;
+}
+
+.email-form{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.form-check{
+    margin-bottom: 20px;
+}

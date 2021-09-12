@@ -1,0 +1,11 @@
+/*---------------Font: plex_serif-----------------*/
+@font-face{
+    font-family: plex_serif;
+    src: url("../Fonts/IBM_Plex_Serif/IBMPlexSerif-Regular.ttf");
+}
+
+/*---------------Font: abel-----------------*/
+@font-face{
+    font-family: abel;
+    src: url("../Fonts/Abel/Abel-Regular.ttf");
+}
